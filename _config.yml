@@ -6,7 +6,7 @@ title: Miniyao
 description: |
   The Story Of Miniyao And Minichao
 owner: Chao Zhang # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2017 # if migrating another site, the year of your first publish
 email: zhangchao19940320@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Allkoman.github.io" # the base hostname & protocol for your site
@@ -33,7 +33,7 @@ social:
   #angellist:
   #tumblr-square:
   #stackexchange:
-  #weibo:
+  weibo: 罗纳尔哆啦A蒙娜丽莎
   #trello:
   #foursquare:
   #linux:
